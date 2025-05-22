@@ -11,6 +11,7 @@ st.image("39568f388d8fb70c33681c332fc9060b.jpg")
 
 st.title("Bingung sumpah")
 st.Header("Ngitung apa y?")
+
 angka = st.numper_input("Ngitungngitung:", value=0, step=1)
 
 if (angka % 2) == 0:
